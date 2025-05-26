@@ -8,6 +8,10 @@ class ClientUserManagementServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
+<<<<<<< HEAD
+=======
+
+>>>>>>> e74814e (integration)
 	}
 
 }
